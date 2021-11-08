@@ -10,7 +10,7 @@
   - [x] Dynmamicly show all special NFTs available
   - [x] connect to ipfs for image uploading , storing hash in smartContract and using them on the front end
   - [x] connect to ipfs for uploading image , name. description of NFT 
-  - [] users can put their NFTs on an auction
+  - [ ] users can put their NFTs on an auction
   - [x] In order to obtain a Special Card user has to trade up to 3 monsters with value at least equal to the stars of the Special
   - [ ]  More to come
 

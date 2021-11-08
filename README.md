@@ -2,13 +2,17 @@
 
 #### v0.1 in progress  :
 
-  - [x] Create a Yu-Gi-Oh NFT! Based on IERC721
-  - [x] Sell, Buy, Create NFT's 
-  - [x] Dynamicly show your unsold Nft's
-  - [x] Dynamicly show your bought Nft's
-  - [x] Dynamicly show all availalbe Nft's
+  - [x] Owner of the contract can create a Yu-Gi-Oh NFT! (ERC721)
+  - [x] Users can ReSell in a new Price, Buy or Trade their NFTs 
+  - [x] Dynamicly show the unsold Nfts per user
+  - [x] Dynamicly show the bought Nfts per user
+  - [x] Dynamicly show all availalbe Nfts
+  - [x] Dynmamicly show all special NFTs available
   - [x] connect to ipfs for image uploading , storing hash in smartContract and using them on the front end
-  - [x]  connect to ipfs for uploading image ,value, name. description of NFT 
+  - [x] connect to ipfs for uploading image , name. description of NFT 
+  - [] users can put their NFTs on an auction
+  - [x] In order to obtain a Special Card user has to trade up to 3 monsters with value at least equal to the stars of the Special
+  - [ ]  More to come
 
 
 
